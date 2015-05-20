@@ -1,0 +1,25 @@
+<!-- Insert scripts here -->
+<!-- The following code is an example use of including external JavaScript libraries -->
+{% if page.plugin == 'intense' %}
+
+  <script src="{{ '/js/intense.js' | prepend: site.assets | prepend: site.base }}"></script>
+  <script>
+    window.onload = function() {
+      var fx = document.querySelectorAll('p > img:not(.nointense)');
+      var el = document.body;
+      var cl = 'loaded'
+
+      if (el.classList)
+        el.classList.add(cl);
+      else
+        el.className += ' ' + cl;
+
+      Intense(fx);
+    }
+  </script>
+{% endif %}
+
+<!-- Foot hooks -->
+{% if page.foot %}
+  {{ page.foot }}
+{% endif %}

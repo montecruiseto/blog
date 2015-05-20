@@ -1,0 +1,17 @@
+{
+  "name": "montecruiseto.github.io",
+  "description": "Blog",
+  "version": "0.0.1",
+  "author": "montecruiseto",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-debug": "^2.0.1",
+    "gulp-gh-pages": "^0.5.0"
+  },
+  "keywords": [],
+  "repository": "https://github.com/montecruiseto/montecruiseto.github.io",
+  "licenses": [
+    {}
+  ]
+}
