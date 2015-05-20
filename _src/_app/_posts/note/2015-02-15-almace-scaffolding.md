@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to Almace Scaffolding
+title: We did it, friends of friends
 category: note
 ---
 
