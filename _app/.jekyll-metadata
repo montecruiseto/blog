@@ -1,0 +1,208 @@
+---
+/Users/HAL4/Development/montecruiseto.github.io/_app/_posts/note/2014-01-01-github-pages-setup.md:
+  mtime: 2015-05-20 11:49:02.000000000 +07:00
+  deps:
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/_amsf.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_layouts/post.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/top.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/open-graph.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/css-variables.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/header.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/nav.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/content.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/footer.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/js.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_layouts/default.html
+/Users/HAL4/Development/montecruiseto.github.io/_app/_posts/note/2014-02-01-external-link-post.md:
+  mtime: 2015-05-20 11:49:02.000000000 +07:00
+  deps:
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/_amsf.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_layouts/post.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/top.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/open-graph.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/css-variables.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/header.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/nav.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/content.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/footer.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/js.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_layouts/default.html
+/Users/HAL4/Development/montecruiseto.github.io/_app/_posts/note/2014-02-01-svg-post-title.md:
+  mtime: 2015-05-20 11:49:02.000000000 +07:00
+  deps:
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/_amsf.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/svg/kai.svg
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_layouts/post.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/top.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/open-graph.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/css-variables.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/header.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/nav.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/content.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/footer.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/js.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_layouts/default.html
+/Users/HAL4/Development/montecruiseto.github.io/_app/_posts/note/2014-04-01-custom-css.md:
+  mtime: 2015-05-20 11:49:02.000000000 +07:00
+  deps:
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/_amsf.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_layouts/post.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/top.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/open-graph.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/css-variables.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/header.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/nav.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/content.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/footer.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/js.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_layouts/default.html
+/Users/HAL4/Development/montecruiseto.github.io/_app/_posts/note/2014-05-01-custom-color-scheme.md:
+  mtime: 2015-05-20 11:49:02.000000000 +07:00
+  deps:
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/_amsf.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_layouts/post.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/top.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/open-graph.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/css-variables.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/header.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/nav.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/content.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/footer.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/js.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_layouts/default.html
+/Users/HAL4/Development/montecruiseto.github.io/_app/_posts/note/2014-06-01-custom-html-markups.md:
+  mtime: 2015-05-20 11:49:02.000000000 +07:00
+  deps:
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/_amsf.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_layouts/post.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/top.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/open-graph.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/css-variables.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/header.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/nav.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/content.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/footer.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/js.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_layouts/default.html
+/Users/HAL4/Development/montecruiseto.github.io/_app/_posts/note/2014-06-11-markdown-features-test.md:
+  mtime: 2015-05-20 11:49:02.000000000 +07:00
+  deps:
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/_amsf.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_layouts/post.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/top.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/open-graph.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/css-variables.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/header.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/nav.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/content.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/footer.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/js.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_layouts/default.html
+/Users/HAL4/Development/montecruiseto.github.io/_app/_posts/note/2014-06-11-markup-example.md:
+  mtime: 2015-05-20 11:49:02.000000000 +07:00
+  deps:
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/_amsf.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_layouts/post.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/top.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/open-graph.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/css-variables.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/header.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/nav.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/content.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/footer.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/js.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_layouts/default.html
+/Users/HAL4/Development/montecruiseto.github.io/_app/_posts/note/2014-06-12-getting-started.md:
+  mtime: 2015-05-20 11:49:02.000000000 +07:00
+  deps:
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/_amsf.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_layouts/post.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/top.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/open-graph.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/css-variables.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/header.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/nav.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/content.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/footer.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/js.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_layouts/default.html
+/Users/HAL4/Development/montecruiseto.github.io/_app/_posts/note/2015-02-15-almace-scaffolding.md:
+  mtime: 2015-05-20 14:22:57.000000000 +07:00
+  deps:
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/_amsf.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_layouts/post.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/top.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/open-graph.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/css-variables.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/header.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/nav.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/content.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/footer.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/js.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_layouts/default.html
+/Users/HAL4/Development/montecruiseto.github.io/_app/_pages/about.md:
+  mtime: 2015-05-20 11:49:02.000000000 +07:00
+  deps:
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/_amsf.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_layouts/page.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/top.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/open-graph.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/css-variables.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/header.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/nav.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/content.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/footer.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/js.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_layouts/default.html
+/Users/HAL4/Development/montecruiseto.github.io/_app/_pages/error.md:
+  mtime: 2015-05-20 11:49:02.000000000 +07:00
+  deps:
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/_amsf.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_layouts/page.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/top.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/open-graph.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/css-variables.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/header.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/nav.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/content.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/footer.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/js.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_layouts/default.html
+/Users/HAL4/Development/montecruiseto.github.io/_app/feed-atom.xml:
+  mtime: 2015-05-20 11:49:02.000000000 +07:00
+  deps: []
+/Users/HAL4/Development/montecruiseto.github.io/_app/_pages/index.html:
+  mtime: 2015-05-20 11:49:02.000000000 +07:00
+  deps:
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/page-item.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/_amsf.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/top.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/open-graph.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/css-variables.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/header.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/nav.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/content.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/footer.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_includes/js.html
+  - /Users/HAL4/Development/montecruiseto.github.io/_app/_layouts/default.html
+/Users/HAL4/Development/montecruiseto.github.io/_app/robots.txt:
+  mtime: 2015-05-20 11:49:02.000000000 +07:00
+  deps: []
+/Users/HAL4/Development/montecruiseto.github.io/_app/sitemap.xml:
+  mtime: 2015-05-20 11:49:02.000000000 +07:00
+  deps: []
+/Users/HAL4/Development/montecruiseto.github.io/_app/apple-touch-icon.png:
+  mtime: 2015-05-20 11:49:02.000000000 +07:00
+  deps: []
+/Users/HAL4/Development/montecruiseto.github.io/_app/assets/css/app.css:
+  mtime: 2015-05-20 19:50:54.000000000 +07:00
+  deps: []
+/Users/HAL4/Development/montecruiseto.github.io/_app/assets/css/app.css.map:
+  mtime: 2015-05-20 19:50:00.000000000 +07:00
+  deps: []
+/Users/HAL4/Development/montecruiseto.github.io/_app/assets/js/intense.js:
+  mtime: 2015-05-20 19:50:53.000000000 +07:00
+  deps: []
+/Users/HAL4/Development/montecruiseto.github.io/_app/favicon.ico:
+  mtime: 2015-05-20 11:49:02.000000000 +07:00
+  deps: []
