@@ -10,7 +10,7 @@
 source:         _app
 destination:    _site
 timezone:       Asia/Bangkok
-permalink:      /:title.html
+permalink:      /:title/
 markdown:       redcarpet
 highlighter:    pygments
 include:        ["_pages"]
@@ -50,7 +50,7 @@ redcarpet:
 name:           Montecruiseto
 
 # Site description, will appear in the document meta and Atom feed subtitle
-description:    Almace Scaffolding - Super-fast Jekyll framework
+description:    Montecruiseto Blog
 
 # Base URL, this is useful when I need to build site in a sub-directory (like GitHub Pages for Projects), it provides a specific URL prefix, for example, if the production site URL is http://sparanoid.com/lab/version/, set `base` to `/lab/version/24`, without trailing slash.
 # Default:      null
@@ -65,19 +65,19 @@ assets:         /assets
 feed:           /feed.xml
 
 # Used in atom feed, sitemap, Twitter Cards, and etc. I should use absolute full URLs for these fields
-url:            http://sparanoid.com
+url:            http://blog.startrack.io
 
 # Media assets URL used in posts, without trailing slash. ie. `<img href="{{ site.file }}/image.png">`. In the most cases this URL should be powered by a CDN provider
-file:           http://rsrc.sparanoid.com
+#file:           http://rsrc.sparanoid.com
 
 # Download files URL used in posts, ie. href="{{ site.download }}/package.zip", this should also be a CDN link just like `site.url`. There's no differences in `site.url` and `site.download`, I just use one CDN for post images and another for large download files. That's it. Remove or ignore this if you don't need it
-download:       http://dl.sparanoid.com
+#download:       http://dl.sparanoid.com
 
 # Site Twitter account handle
-twitter:        sparanoid
+twitter:        montecruiseto
 
 # Site donate link, used in several posts
-donate:         https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=LTXZ835Y6T95S
+#donate:         https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=LTXZ835Y6T95S
 
 # Force UTF-8 encoding, enable this will simply add <meta charset=utf-8> to the head of your pages
 # Default:      false
@@ -113,16 +113,16 @@ credits:        true
 #
 
 # SSH remote server hostname
-remote_host:    caladbolg
+#remote_host:    caladbolg
 
 # Prevent them from being deleted on server (rsync --delete), these files and directories are available on the remote server but outside this git repo. I need to ignore them.
 ignore_files:   --exclude=lab
 
 # Media assets sync'ed using s3cmd
-static_files:   ~/Dropbox/Sites/static.sparanoid.com/
+#static_files:   ~/Dropbox/Sites/static.sparanoid.com/
 
 # Remote server root directory
-remote_dir:     /srv/www/sparanoid.com/public_html
+#remote_dir:     /srv/www/sparanoid.com/public_html
 
 # Amazon S3 Bucket variable for s3cmd
-s3_bucket:      s3://sparanoid/
+#s3_bucket:      s3://sparanoid/

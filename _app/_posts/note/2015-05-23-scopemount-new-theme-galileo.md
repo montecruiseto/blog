@@ -1,9 +1,14 @@
 ---
 layout: post
-title: Custom HTML Markups
+title: "Scopemount 3/21 • Galileo"
 category: note
 plugin: intense
 hidden: true
+scheme-text: "black"
+scheme-link: "#ff00b4"
+scheme-hover: "#indigo"
+scheme-code: "#ccc"
+scheme-bg: "white"
 ---
 
 ## `.note`, `.store`, and `.download`
