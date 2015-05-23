@@ -5,114 +5,39 @@ category: note
 plugin: intense
 hidden: true
 scheme-text: "black"
-scheme-link: "#ff00b4"
-scheme-hover: "#indigo"
-scheme-code: "#ccc"
+scheme-link: "darkorange"
+scheme-hover: "darkorange"
 scheme-bg: "white"
 ---
 
-## `.note`, `.store`, and `.download`
+This week saw the completion of a third Telescope theme for [Scopemount](http://scopemount.startrack.io/). All themes have now been refactored to Telescope v0.20.4 (Refactorscope), so you can use them in your upgraded app.
 
-A paragraph block with a thin border line.
+### Look
 
-### Usage
+Galileo is a modern Q&A theme, taking some functional and visual cues from Quora and Medium. You can click here for a [demo](http://sm-galileo.meteor.com/).
 
-```html
-<p class=download>
-  <a href="https://github.com/sparanoid/sparanoid.com/">Download</a> it from GitHub
-</p>
+The theme ships with a colourful sunburst gradient on the side-nav.
 
-<p class=store>
-  Love this plugin? please consider <a href="{{ "{{ site.profile.donate " }}}}">buying me a cup of coffee.</a>
-</p>
-```
-
-Please note that you can’t apply CSS classes in Markdown, so you have to use HTML markup.
-
-### Example
-
-<p class=download>
-  <a href="https://github.com/sparanoid/sparanoid.com/">Download</a> it from GitHub
-</p>
-
-<p class=store>
-  Love this plugin? please consider <a href="{{ site.profile.donate }}">buying me a cup of coffee.</a>
-</p>
-
-## `.largetype`
-
-Make normal paragraph text large enough.
-
-### Usage
-
-```html
-<p class=largetype>
-  <a href="{{ "{{ site.profile.donate " }}}}">PayPal</a>
-</p>
-```
-
-Please note that you can’t apply CSS classes in Markdown, so you have to use HTML markup.
-
-### Example
-
-<p class=largetype>
-  <a href="{{ site.profile.donate }}">PayPal</a>
-</p>
-
-## `.browser`
-
-A simple browser frame using pure CSS.
-
-### Usage
-
-```html
-<p class=browser>
-  <img src="http://sparanoid.com/photo.jpg" alt="Image">
-</p>
-```
-
-Please note that you can't apply CSS classes in Markdown, so you have to use HTML markup.
-
-### Example
-
-<p class="browser"><img src="http://rsrc.sparanoid.com/delicious.com.png" alt="Delicious Preview" class=nointense></p>
-
-## [intense.js](http://github.com/tholman/intense-images)
-
-A simple library by [Tim Holman](https://github.com/tholman) to view large images up close using simple mouse interaction, and the full screen.
-
-### Usage
-
-Add the folloing setting to your post [front-matter field](http://jekyllrb.com/docs/frontmatter/):
-
-```
-plugin: intense
-```
-
-Markdown markup:
-
-```
-![Image](http://sparanoid.com/photo.jpg)
-```
-
-Or simply use HTML:
-
-```html
 <p>
-  <img src="http://sparanoid.com/photo.jpg" alt="Image">
+  <img src="/assets/img/Galileo0.png" class="nointense" alt="Image">
 </p>
-```
 
-`intense.js` is activated globally by default, if you want to disable this effect for specific image, you can simply apply `.nointense` CSS class to your `<img>`:
+However, if you opt to install the package locally, you can edit the "_colors.less" file and switch to a nice aquamarine gradient by uncommenting the corresponding code.
 
-```html
 <p>
-  <img src="http://sparanoid.com/photo.jpg" class="nointense" alt="Image">
+  <img src="/assets/img/Galileo1.png" class="nointense" alt="Image">
 </p>
+
+Out-of-the box Galileo includes 3 Google webfonts, which is mostly for showcasing purposes. The font "Yesteryear" is only used on the logo. If you are concerned with page load times, feel free to throw out one or more of the webfonts and use standard native fonts by editing "_typography.less".
+
+### Usage
+
+You can install Galileo automagically through [Atmosphere](https://atmospherejs.com/montecruiseto/telescope-theme-sm-galileo):
+
+```bash
+$ meteor add montecruiseto:telescope-theme-sm-galileo
 ```
 
-Please note that if you're using HTML markup, you should wrap your images into a `<p>` container.
+Alternatively if you want to customize the themes: Download and extract the themes of your choice to your Telescope package directory and run the same command as above. Telescope will look for the local package first and use that one.
 
-### Example
-
-![Moonstruck Princess Extended - Red](http://rsrc.sparanoid.com/moonstruck-princess-ext-red.jpg)
+Have fun setting up your own Q&A community ;-)

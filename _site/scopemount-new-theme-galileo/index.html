@@ -58,7 +58,7 @@
 <meta name=description content="
   
     
-      .note, .store, and .download
+      This week saw the completion of a third Telescope theme for Scopemount. All themes have now been refactored to Telescope v0.20.4 (Refactorscope), so you can use them in your upgraded app.
     
   
 ">
@@ -94,7 +94,7 @@
 <meta property="og:description" content="
   
     
-      .note, .store, and .download
+      This week saw the completion of a third Telescope theme for Scopemount. All themes have now been refactored to Telescope v0.20.4 (Refactorscope), so you can use them in your upgraded app.
     
   
 ">
@@ -105,7 +105,7 @@
 <meta name="twitter:description" content="
   
     
-      .note, .store, and .download
+      This week saw the completion of a third Telescope theme for Scopemount. All themes have now been refactored to Telescope v0.20.4 (Refactorscope), so you can use them in your upgraded app.
     
   
 ">
@@ -144,7 +144,7 @@
 
   
   ::selection {
-    color: #ff00b4;
+    color: darkorange;
   }
   
 
@@ -155,59 +155,54 @@
   
     
     .logo:hover {
-      background: #ff00b4;
+      background: darkorange;
     }
     
 
   
   .navigation li a:hover,
   .navigation li a:focus {
-    color: #indigo;
+    color: darkorange;
   }
   
 
   
   .current a {
-    color: #ff00b4;
+    color: darkorange;
   }
 
   .content a {
-    color: #ff00b4;
+    color: darkorange;
   }
   
 
   
   .content ul li:before,
   .content ol li:before {
-    box-shadow: inset 0 0 0 3px #ff00b4, inset 0 0 0 5px white, inset 0 0 0 7px #ff00b4;
+    box-shadow: inset 0 0 0 3px darkorange, inset 0 0 0 5px white, inset 0 0 0 7px darkorange;
   }
   
 
-  
-  .content code,
-  .content pre {
-    color: #ccc;
-  }
   
 
   
   .note,
   .store,
   .download {
-    border-left-color: #ff00b4;
+    border-left-color: darkorange;
   }
   
 
   
   .external span {
-    background: #ff00b4;
+    background: darkorange;
   }
   
 
   
   :target [rev=footnote],
   :target [rel=footnote] {
-    color: #indigo;
+    color: darkorange;
   }
   
 </style>
@@ -345,90 +340,34 @@
 
   <!-- Post content -->
   <div class=post-content>
-    <h2 id=".note,-.store,-and-.download"><code>.note</code>, <code>.store</code>, and <code>.download</code></h2>
+    <p>This week saw the completion of a third Telescope theme for <a href="http://scopemount.startrack.io/">Scopemount</a>. All themes have now been refactored to Telescope v0.20.4 (Refactorscope), so you can use them in your upgraded app.</p>
 
-<p>A paragraph block with a thin border line.</p>
+<h3 id="look">Look</h3>
 
-<h3 id="usage">Usage</h3>
-<div class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;p</span> <span class="na">class=</span><span class="s">download</span><span class="nt">&gt;</span>
-  <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">&quot;https://github.com/sparanoid/sparanoid.com/&quot;</span><span class="nt">&gt;</span>Download<span class="nt">&lt;/a&gt;</span> it from GitHub
-<span class="nt">&lt;/p&gt;</span>
+<p>Galileo is a modern Q&amp;A theme, taking some functional and visual cues from Quora and Medium. You can click here for a <a href="http://sm-galileo.meteor.com/">demo</a>.</p>
 
-<span class="nt">&lt;p</span> <span class="na">class=</span><span class="s">store</span><span class="nt">&gt;</span>
-  Love this plugin? please consider <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">&quot;{{ site.profile.donate }}&quot;</span><span class="nt">&gt;</span>buying me a cup of coffee.<span class="nt">&lt;/a&gt;</span>
-<span class="nt">&lt;/p&gt;</span>
-</code></pre></div>
-<p>Please note that you can’t apply CSS classes in Markdown, so you have to use HTML markup.</p>
+<p>The theme ships with a colourful sunburst gradient on the side-nav.</p>
 
-<h3 id="example">Example</h3>
-
-<p class=download>
-  <a href="https://github.com/sparanoid/sparanoid.com/">Download</a> it from GitHub
+<p>
+  <img src="/assets/img/Galileo0.png" class="nointense" alt="Image">
 </p>
 
-<p class=store>
-  Love this plugin? please consider <a href="">buying me a cup of coffee.</a>
+<p>However, if you opt to install the package locally, you can edit the &ldquo;_colors.less&rdquo; file and switch to a nice aquamarine gradient by uncommenting the corresponding code.</p>
+
+<p>
+  <img src="/assets/img/Galileo1.png" class="nointense" alt="Image">
 </p>
 
-<h2 id=".largetype"><code>.largetype</code></h2>
-
-<p>Make normal paragraph text large enough.</p>
-
-<h3 id="usage">Usage</h3>
-<div class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;p</span> <span class="na">class=</span><span class="s">largetype</span><span class="nt">&gt;</span>
-  <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">&quot;{{ site.profile.donate }}&quot;</span><span class="nt">&gt;</span>PayPal<span class="nt">&lt;/a&gt;</span>
-<span class="nt">&lt;/p&gt;</span>
-</code></pre></div>
-<p>Please note that you can’t apply CSS classes in Markdown, so you have to use HTML markup.</p>
-
-<h3 id="example">Example</h3>
-
-<p class=largetype>
-  <a href="">PayPal</a>
-</p>
-
-<h2 id=".browser"><code>.browser</code></h2>
-
-<p>A simple browser frame using pure CSS.</p>
-
-<h3 id="usage">Usage</h3>
-<div class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;p</span> <span class="na">class=</span><span class="s">browser</span><span class="nt">&gt;</span>
-  <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">&quot;http://sparanoid.com/photo.jpg&quot;</span> <span class="na">alt=</span><span class="s">&quot;Image&quot;</span><span class="nt">&gt;</span>
-<span class="nt">&lt;/p&gt;</span>
-</code></pre></div>
-<p>Please note that you can&rsquo;t apply CSS classes in Markdown, so you have to use HTML markup.</p>
-
-<h3 id="example">Example</h3>
-
-<p class="browser"><img src="http://rsrc.sparanoid.com/delicious.com.png" alt="Delicious Preview" class=nointense></p>
-
-<h2 id="intense.js"><a href="http://github.com/tholman/intense-images">intense.js</a></h2>
-
-<p>A simple library by <a href="https://github.com/tholman">Tim Holman</a> to view large images up close using simple mouse interaction, and the full screen.</p>
+<p>Out-of-the box Galileo includes 3 Google webfonts, which is mostly for showcasing purposes. The font &ldquo;Yesteryear&rdquo; is only used on the logo. If you are concerned with page load times, feel free to throw out one or more of the webfonts and use standard native fonts by editing &ldquo;_typography.less&rdquo;.</p>
 
 <h3 id="usage">Usage</h3>
 
-<p>Add the folloing setting to your post <a href="http://jekyllrb.com/docs/frontmatter/">front-matter field</a>:</p>
-<div class="highlight"><pre><code class="language-text" data-lang="text">plugin: intense
+<p>You can install Galileo automagically through <a href="https://atmospherejs.com/montecruiseto/telescope-theme-sm-galileo">Atmosphere</a>:</p>
+<div class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="nv">$ </span>meteor add montecruiseto:telescope-theme-sm-galileo
 </code></pre></div>
-<p>Markdown markup:</p>
-<div class="highlight"><pre><code class="language-text" data-lang="text">![Image](http://sparanoid.com/photo.jpg)
-</code></pre></div>
-<p>Or simply use HTML:</p>
-<div class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;p&gt;</span>
-  <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">&quot;http://sparanoid.com/photo.jpg&quot;</span> <span class="na">alt=</span><span class="s">&quot;Image&quot;</span><span class="nt">&gt;</span>
-<span class="nt">&lt;/p&gt;</span>
-</code></pre></div>
-<p><code>intense.js</code> is activated globally by default, if you want to disable this effect for specific image, you can simply apply <code>.nointense</code> CSS class to your <code>&lt;img&gt;</code>:</p>
-<div class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;p&gt;</span>
-  <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">&quot;http://sparanoid.com/photo.jpg&quot;</span> <span class="na">class=</span><span class="s">&quot;nointense&quot;</span> <span class="na">alt=</span><span class="s">&quot;Image&quot;</span><span class="nt">&gt;</span>
-<span class="nt">&lt;/p&gt;</span>
-</code></pre></div>
-<p>Please note that if you&rsquo;re using HTML markup, you should wrap your images into a <code>&lt;p&gt;</code> container.</p>
+<p>Alternatively if you want to customize the themes: Download and extract the themes of your choice to your Telescope package directory and run the same command as above. Telescope will look for the local package first and use that one.</p>
 
-<h3 id="example">Example</h3>
-
-<p><img src="http://rsrc.sparanoid.com/moonstruck-princess-ext-red.jpg" alt="Moonstruck Princess Extended - Red"></p>
+<p>Have fun setting up your own Q&amp;A community ;-)</p>
 
   </div>
 
