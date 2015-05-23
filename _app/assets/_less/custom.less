@@ -28,9 +28,9 @@
 // @text-color: #000;
 
 // indigo (invert) #4B0082 rgb(75,0,130)
-// @link-color: #fff;
-// @background-color: indigo;
-// @text-color: lighten(@background-color, 60%);
+@link-color: #fff;
+@background-color: indigo;
+@text-color: lighten(@background-color, 60%);
 
 // indigo #4B0082 rgb(75,0,130)
 // @link-color: indigo;
@@ -73,10 +73,10 @@
 }
 
 // amsf.github.io color scheme
-@link-color: #ff00b4;
-@background-color: #fff;
-@text-color: #000;
-@code-color: darken(spin(@link-color, 180), 10%);
+// @link-color: deeppink;
+// @background-color: #fff;
+// @text-color: #000;
+// @code-color: darken(spin(@link-color, 180), 10%);
 
 // amsf.github.io homepage logo
 .amsf-logo {
@@ -104,4 +104,25 @@
   display: inline-block;
   color: @link-color;
   vertical-align: middle;
+}
+
+/* -----
+SVG Icon - svgicons.sparkk.fr
+----- */
+
+.svg-icon {
+  width: 3em;
+  height: 3em;
+  vertical-align: middle;
+}
+
+.svg-icon path,
+.svg-icon polygon,
+.svg-icon rect {
+  fill: deeppink;
+}
+
+.svg-icon circle {
+  stroke: darkmagenta;
+  stroke-width: 1;
 }

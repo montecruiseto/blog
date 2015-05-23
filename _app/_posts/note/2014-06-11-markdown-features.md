@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Markdown Features Test
+title: Markdown Features
 category: note
 hidden: true
 ---
