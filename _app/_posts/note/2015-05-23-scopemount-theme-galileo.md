@@ -22,13 +22,13 @@ The theme ships with a colourful sunburst gradient on the side-nav.
   <img src="/assets/img/Galileo0.png" class="nointense" alt="Image">
 </p>
 
-However, if you opt to install the package locally, you can edit the "_colors.less" file and switch to a nice aquamarine gradient by uncommenting the corresponding code.
+However, if you opt to install the package locally, you can edit the "_colors.less" file and switch to a cool aquamarine variant by uncommenting the corresponding code.
 
 <p>
   <img src="/assets/img/Galileo1.png" class="nointense" alt="Image">
 </p>
 
-Out-of-the box Galileo includes 3 Google webfonts, which is mostly for showcasing purposes. The font "Yesteryear" is only used on the logo. If you are concerned with page load times, feel free to throw out one or more of the webfonts and use standard native fonts by editing "_typography.less".
+Out-of-the box Galileo includes 3 Google webfonts, which are mostly for showcasing purposes. The font "Yesteryear" is only used on the logo. If you are concerned with page load times, feel free to throw out one or more of the webfonts and use standard native fonts by editing "_typography.less".
 
 ## Usage
 
@@ -38,7 +38,7 @@ You can install Galileo automagically through [Atmosphere](https://atmospherejs.
 $ meteor add montecruiseto:telescope-theme-sm-galileo
 ```
 
-Alternatively if you want to customize the themes: [Download](https://github.com/montecruiseto/scopemount) and extract the themes of your choice to your Telescope package directory and run the same command as above. Telescope will look for the local package first and use that one.
+Alternatively if you want to customize the theme: [Download](https://github.com/montecruiseto/scopemount) and extract the theme of your choice to your Telescope package directory and run the same command as above. Telescope will look for the local package first and use that one.
 
 ## Galileo
 

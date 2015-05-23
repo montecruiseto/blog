@@ -88,6 +88,10 @@ body {
     text-align: start;
 }
 
+.img-centered {
+  margin: 0 auto !important;
+}
+
 // Styles
 
 .post-content a {
@@ -148,4 +152,15 @@ SVG Icon - svgicons.sparkk.fr
 .svg-icon circle {
   stroke: darkmagenta;
   stroke-width: 1;
+}
+
+// Post list in "work" and "note"
+.list {
+  h1 {
+    @media (max-width: @breakpoint-sm) {
+      // Hide external link for post list
+      font-size: 150%;
+    }
+  }
+
 }
