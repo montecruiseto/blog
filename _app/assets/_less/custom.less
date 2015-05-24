@@ -72,12 +72,13 @@
   h6 { font-size: 60%;  opacity: .2; }
 }
 
-// amsf.github.io color scheme
-// @link-color: deeppink;
-// @background-color: #fff;
-// @text-color: #000;
-// @code-color: darken(spin(@link-color, 180), 10%);
-
+.content {
+  header {
+    small {
+      margin: 1.2vmin 0 0;
+    }
+  }
+}
 
 // Alignment
 body {
@@ -162,5 +163,13 @@ SVG Icon - svgicons.sparkk.fr
       font-size: 150%;
     }
   }
+}
 
+// Site logo
+.logo {
+  background: none !important;
+  &:hover,
+  &:focus {
+    background: none !important;
+  }
 }
