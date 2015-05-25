@@ -40,6 +40,8 @@ $ meteor add montecruiseto:telescope-theme-sm-galileo
 
 Alternatively if you want to customize the theme: [Download](https://github.com/montecruiseto/scopemount) and extract the theme of your choice to your Telescope package directory and run the same command as above. Telescope will look for the local package first and use that one.
 
+***Note:*** *Remember to set Telescope to 'side' navigation and post 'list' mode in your admin settings.*
+
 ## Galileo
 
 This theme was named after the [Telescopio Nazionale Galileo](http://en.wikipedia.org/wiki/Telescopio_Nazionale_Galileo), a 3.58m Italian telescope located on the island of San Miguel de La Palma (or, more simply, La Palma), in the Canary Islands archipelago.
