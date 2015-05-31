@@ -93,10 +93,10 @@
   mtime: 2015-05-20 11:49:02.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/assets/css/app.css:
-  mtime: 2015-05-31 11:24:19.000000000 +07:00
+  mtime: 2015-05-31 18:33:37.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/assets/css/app.css.map:
-  mtime: 2015-05-31 11:24:18.000000000 +07:00
+  mtime: 2015-05-31 18:33:37.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/assets/img/Galileo0.png:
   mtime: 2015-05-23 14:59:40.000000000 +07:00
@@ -149,10 +149,10 @@
   mtime: 2015-05-20 11:49:02.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/_layouts/post.html:
-  mtime: 2015-05-22 18:49:06.000000000 +07:00
+  mtime: 2015-05-31 18:33:44.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/_posts/note/2015-05-31-scopemount-theme-palomar.md:
-  mtime: 2015-05-31 12:13:39.000000000 +07:00
+  mtime: 2015-05-31 16:58:28.000000000 +07:00
   deps:
   - /Users/HAL4/Development/blog/_app/_includes/_amsf.html
   - /Users/HAL4/Development/blog/_app/_layouts/post.html
@@ -218,4 +218,10 @@
   deps: []
 /Users/HAL4/Development/blog/_app/assets/img/0-Telescope-compressor.png:
   mtime: 2015-05-31 11:43:12.000000000 +07:00
+  deps: []
+/Users/HAL4/Development/blog/_app/assets/img/Palomar-thumb.png:
+  mtime: 2015-05-31 17:55:46.000000000 +07:00
+  deps: []
+/Users/HAL4/Development/blog/_app/assets/img/Palomar-thumb-compressor.png:
+  mtime: 2015-05-31 17:55:46.000000000 +07:00
   deps: []

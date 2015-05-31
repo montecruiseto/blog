@@ -9,7 +9,7 @@ scheme-link: "black"
 scheme-hover: "black"
 scheme-bg: "white"
 ---
-I'm releasing a fourth [Scopemount](http://scopemount.startrack.io/) theme today for Telescope. [Telescope](http://www.telescopeapp.org/) is an open-source web app that makes it easy for anybody to launch their own community. Go check it out!
+The fourth [Scopemount](http://scopemount.startrack.io/) theme for Telescope is out today. [Telescope](http://www.telescopeapp.org/) is an open-source Meteor-based web app that makes it easy for anybody to launch their own community. Go check it out!
 
 ## Quick Links
 

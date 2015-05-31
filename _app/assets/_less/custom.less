@@ -173,3 +173,91 @@ SVG Icon - svgicons.sparkk.fr
     background: none !important;
   }
 }
+
+// Newsletter panel
+.communication-panel {
+  background-image: url('/assets/img/Palomar-thumb.png'), -webkit-linear-gradient(#f9f9f9 10%, #f0f0f0 100%); /* Chrome 10+, Saf5.1+ */
+  background-image: url('/assets/img/Palomar-thumb.png'),    -moz-linear-gradient(#f9f9f9 10%, #f0f0f0 100%); /* FF3.6+ */
+  background-image: url('/assets/img/Palomar-thumb.png'),     -ms-linear-gradient(#f9f9f9 10%, #f0f0f0 100%); /* IE10 */
+  background-image: url('/assets/img/Palomar-thumb.png'),      -o-linear-gradient(#f9f9f9 10%, #f0f0f0 100%); /* Opera 11.10+ */
+  background-image: url('/assets/img/Palomar-thumb.png'),         linear-gradient(#f9f9f9 10%, #f0f0f0 100%); /* W3C */
+  border: 1px solid #F9F7F7;
+  border-radius: 5px;
+  background-repeat: no-repeat;
+  background-size: 30%, cover;
+  position: relative;
+  height: 220px;
+  @media (min-width: 768px) {
+    background-repeat: no-repeat;
+    background-position: 92% -25%;
+    margin-top: -30px;
+    margin-bottom: 80px;
+  }
+  .panel-ridge {
+    border-top: 1px solid white;
+    border-radius: 5px;
+    top: 1px;
+    position: absolute;
+    width: 100%;
+  }
+  .communication-content {
+    padding: 30px;
+    height: 150px;
+    text-align: left;
+    color: #9E9E9E;
+    .form-control {
+      background: transparent;
+      border-bottom: 1px solid #D0D0D0;
+      // width: 70%;
+      display: inline-block;
+    }
+    ::-webkit-input-placeholder { /* WebKit browsers */
+        color:    #333;
+        opacity:  1;
+    }
+    :-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+       color:    #333;
+       opacity:  1;
+    }
+    ::-moz-placeholder { /* Mozilla Firefox 19+ */
+       color:    #333;
+       opacity:  1;
+    }
+    :-ms-input-placeholder { /* Internet Explorer 10+ */
+       color:    #333;
+       opacity:  1;
+    }
+    @media (min-width: 768px) {
+      width: 60%;
+    }
+  }
+}
+
+// Button Style
+
+.btn {
+  border: none;
+  float: right;
+  font-size: 60%;
+  outline: none;
+  cursor: pointer;
+  border-radius: 0px;
+  padding: 0px;
+  -webkit-font-smoothing: subpixel-antialiased;
+  background: transparent;
+  color: #9E9E9E;
+  &:hover,
+  &:focus {
+
+    outline: none;
+    border: none;
+    color: #9E9E9E;
+  }
+
+  &:active,
+  &.active {
+    outline: none;
+  }
+
+}
+
