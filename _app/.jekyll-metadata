@@ -28,7 +28,7 @@
   - /Users/HAL4/Development/blog/_app/_includes/js.html
   - /Users/HAL4/Development/blog/_app/_layouts/default.html
 /Users/HAL4/Development/blog/_app/_posts/note/2015-05-23-scopemount-theme-galileo.md:
-  mtime: 2015-05-24 15:03:00.000000000 +07:00
+  mtime: 2015-05-25 08:28:56.000000000 +07:00
   deps:
   - /Users/HAL4/Development/blog/_app/_includes/_amsf.html
   - /Users/HAL4/Development/blog/_app/_layouts/post.html
@@ -93,10 +93,10 @@
   mtime: 2015-05-20 11:49:02.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/assets/css/app.css:
-  mtime: 2015-05-25 08:23:07.000000000 +07:00
+  mtime: 2015-05-31 11:24:19.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/assets/css/app.css.map:
-  mtime: 2015-05-25 08:23:07.000000000 +07:00
+  mtime: 2015-05-31 11:24:18.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/assets/img/Galileo0.png:
   mtime: 2015-05-23 14:59:40.000000000 +07:00
@@ -131,12 +131,40 @@
 /Users/HAL4/Development/blog/_app/_includes/_amsf.html:
   mtime: 2015-05-20 11:49:02.000000000 +07:00
   deps: []
+/Users/HAL4/Development/blog/_app/_posts/note/2015-05-23-scopemount-theme-galileo copy.md:
+  mtime: 2015-05-25 08:28:56.000000000 +07:00
+  deps:
+  - /Users/HAL4/Development/blog/_app/_includes/_amsf.html
+  - /Users/HAL4/Development/blog/_app/_layouts/post.html
+  - /Users/HAL4/Development/blog/_app/_includes/top.html
+  - /Users/HAL4/Development/blog/_app/_includes/open-graph.html
+  - /Users/HAL4/Development/blog/_app/_includes/css-variables.html
+  - /Users/HAL4/Development/blog/_app/_includes/header.html
+  - /Users/HAL4/Development/blog/_app/_includes/nav.html
+  - /Users/HAL4/Development/blog/_app/_includes/content.html
+  - /Users/HAL4/Development/blog/_app/_includes/footer.html
+  - /Users/HAL4/Development/blog/_app/_includes/js.html
+  - /Users/HAL4/Development/blog/_app/_layouts/default.html
 /Users/HAL4/Development/blog/_app/_includes/page-item.html:
   mtime: 2015-05-20 11:49:02.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/_layouts/post.html:
   mtime: 2015-05-22 18:49:06.000000000 +07:00
   deps: []
+/Users/HAL4/Development/blog/_app/_posts/note/2015-05-31-scopemount-theme-palomar.md:
+  mtime: 2015-05-31 12:13:39.000000000 +07:00
+  deps:
+  - /Users/HAL4/Development/blog/_app/_includes/_amsf.html
+  - /Users/HAL4/Development/blog/_app/_layouts/post.html
+  - /Users/HAL4/Development/blog/_app/_includes/top.html
+  - /Users/HAL4/Development/blog/_app/_includes/open-graph.html
+  - /Users/HAL4/Development/blog/_app/_includes/css-variables.html
+  - /Users/HAL4/Development/blog/_app/_includes/header.html
+  - /Users/HAL4/Development/blog/_app/_includes/nav.html
+  - /Users/HAL4/Development/blog/_app/_includes/content.html
+  - /Users/HAL4/Development/blog/_app/_includes/footer.html
+  - /Users/HAL4/Development/blog/_app/_includes/js.html
+  - /Users/HAL4/Development/blog/_app/_layouts/default.html
 /Users/HAL4/Development/blog/_app/_layouts/page.html:
   mtime: 2015-05-20 11:49:02.000000000 +07:00
   deps: []
@@ -146,12 +174,48 @@
 /Users/HAL4/Development/blog/_app/_includes/open-graph.html:
   mtime: 2015-05-20 11:49:02.000000000 +07:00
   deps: []
+/Users/HAL4/Development/blog/_app/assets/img/Palomar-Desktop2-compressor.png:
+  mtime: 2015-05-31 09:37:38.000000000 +07:00
+  deps: []
+/Users/HAL4/Development/blog/_app/assets/img/Palomar-iphone2-compressor.png:
+  mtime: 2015-05-31 10:13:02.000000000 +07:00
+  deps: []
 /Users/HAL4/Development/blog/_app/_includes/css-variables.html:
   mtime: 2015-05-20 11:49:02.000000000 +07:00
+  deps: []
+/Users/HAL4/Development/blog/_app/assets/img/Palomar.png:
+  mtime: 2015-05-31 09:37:38.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/_includes/header.html:
   mtime: 2015-05-20 11:49:02.000000000 +07:00
   deps: []
+/Users/HAL4/Development/blog/_app/assets/img/Palomar2.png:
+  mtime: 2015-05-31 10:13:02.000000000 +07:00
+  deps: []
 /Users/HAL4/Development/blog/_app/_includes/nav.html:
   mtime: 2015-05-22 15:32:33.000000000 +07:00
+  deps: []
+/Users/HAL4/Development/blog/_app/assets/img/7162238259_9f45baa005_o.jpg:
+  mtime: 2015-05-31 11:36:01.000000000 +07:00
+  deps: []
+/Users/HAL4/Development/blog/_app/_includes/content.html:
+  mtime: 2015-05-20 11:49:02.000000000 +07:00
+  deps: []
+/Users/HAL4/Development/blog/_app/assets/img/PalomarT.jpg:
+  mtime: 2015-05-31 11:36:46.000000000 +07:00
+  deps: []
+/Users/HAL4/Development/blog/_app/_includes/footer.html:
+  mtime: 2015-05-23 17:48:35.000000000 +07:00
+  deps: []
+/Users/HAL4/Development/blog/_app/_includes/js.html:
+  mtime: 2015-05-22 15:34:58.000000000 +07:00
+  deps: []
+/Users/HAL4/Development/blog/_app/_layouts/default.html:
+  mtime: 2015-05-20 11:49:02.000000000 +07:00
+  deps: []
+/Users/HAL4/Development/blog/_app/assets/img/0-Telescope.png:
+  mtime: 2015-05-31 11:43:12.000000000 +07:00
+  deps: []
+/Users/HAL4/Development/blog/_app/assets/img/0-Telescope-compressor.png:
+  mtime: 2015-05-31 11:43:12.000000000 +07:00
   deps: []
