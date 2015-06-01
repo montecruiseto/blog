@@ -41,3 +41,5 @@ This theme was named after [Newton's reflector](http://en.wikipedia.org/wiki/New
 </p>
 
 If you want to be notified of theme updates or new releases, you can leave your email on the [Scopemount](http://scopemount.startrack.io/) homepage. Have fun with Telescope and keep looking at the sky!
+
+***Ps: if you like my themes please don't forget to star Scopemount on [Github](https://github.com/montecruiseto/scopemount). I appreciate it!***
