@@ -55,4 +55,4 @@ This theme was named after the [Palomar Observatory](http://en.wikipedia.org/wik
 
 If you want to be notified of theme updates or new releases, you can leave your email on the [Scopemount](http://scopemount.startrack.io/) homepage. Have fun with Telescope and keep tracking the stars!
 
-***Ps: if you like my themes please don't forget to star Scopemount on [Github](https://github.com/montecruiseto/scopemount). I appreciate it!***
+***Ps: if you like my themes please don't forget to star Scopemount on [Github](https://github.com/montecruiseto/scopemount). I would definitely appreciate that!***
