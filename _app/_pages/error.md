@@ -6,5 +6,5 @@ desc: Oops
 category: home
 ---
 
-<p>The requested URL was not found on this server.</p>
-<p>I’m sorry, you can close this tab now.</p>
+<p>The thing that you are looking for is not here.</p>
+<p>Sorry for that, you can close this tab now.</p>
