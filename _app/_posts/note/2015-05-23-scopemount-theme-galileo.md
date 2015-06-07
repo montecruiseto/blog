@@ -52,4 +52,5 @@ This theme was named after the [Telescopio Nazionale Galileo](http://en.wikipedi
 
 If you want to be notified of theme updates or new releases, you can leave your email on the [Scopemount](http://scopemount.startrack.io/) homepage. Have fun with Telescope and keep looking at the sky!
 
-***Ps: if you like my themes please don't forget to star Scopemount on [Github](https://github.com/montecruiseto/scopemount). I would definitely appreciate that!***
+***Ps: if you like these themes you're welcome to star Scopemount on [Github](https://github.com/montecruiseto/scopemount)!***
+
