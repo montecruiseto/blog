@@ -9,6 +9,9 @@ scheme-link: "black"
 scheme-hover: "black"
 scheme-bg: "white"
 ---
+
+*Update June 11 2015: Palomar is now refactored to run on Telescope v0.20.5*
+
 The fourth [Scopemount](http://scopemount.startrack.io/) theme for Telescope is out today. [Telescope](http://www.telescopeapp.org/) is an open-source Meteor-based web app that makes it easy for anybody to launch their own community. Go check it out!
 
 ## Quick Links

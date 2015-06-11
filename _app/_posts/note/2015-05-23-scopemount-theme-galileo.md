@@ -10,7 +10,9 @@ scheme-hover: "black"
 scheme-bg: "white"
 ---
 
-This week saw the completion of a third Telescope theme for [Scopemount](http://scopemount.startrack.io/). All themes have now been refactored to Telescope v0.20.4 (Refactorscope), so you can use them in your upgraded app.
+*Update June 11 2015: Galileo is now refactored to run on Telescope v0.20.5*
+
+This week saw the completion of a third Telescope theme for [Scopemount](http://scopemount.startrack.io/).
 
 ## Look
 

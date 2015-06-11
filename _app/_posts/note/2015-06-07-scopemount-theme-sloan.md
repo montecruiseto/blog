@@ -9,6 +9,9 @@ scheme-link: "black"
 scheme-hover: "black"
 scheme-bg: "white"
 ---
+
+*Update June 11 2015: Newton is now refactored to run on Telescope v0.20.5*
+
 Glad to announce the fifth [Scopemount](http://scopemount.startrack.io/) theme for [Telescope](http://www.telescopeapp.org/), the open-source Meteor-based web app that makes it easy for anybody to launch their own community.
 
 ## Quick Links
