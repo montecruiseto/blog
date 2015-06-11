@@ -10,7 +10,7 @@ scheme-hover: "black"
 scheme-bg: "white"
 ---
 
-*Update May 23 2015: Newton is now refactored to run on Telescope v0.20.4.*
+*Update June 11 2015: Newton is now refactored to run on Telescope v0.20.5*
 
 Newton is the second Telescope theme for [Scopemount](http://scopemount.startrack.io/).
 

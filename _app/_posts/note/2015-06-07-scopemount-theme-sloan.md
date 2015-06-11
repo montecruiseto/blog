@@ -38,7 +38,7 @@ $ meteor add montecruiseto:telescope-theme-sm-sloan
 
 Alternatively if you want to customize the theme: [Download](https://github.com/montecruiseto/scopemount) and extract the theme of your choice to your Telescope package directory and run the same command as above. Telescope will look for the local package first and use that one.
 
-## Palomar
+## Sloan
 
 This theme was named after the [Sloan Digital Sky Survey](http://en.wikipedia.org/wiki/Sloan_Digital_Sky_Survey), a 2.5-m wide-angle optical telescope at Apache Point Observatory in New Mexico, United States.
 

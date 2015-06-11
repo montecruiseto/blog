@@ -56,7 +56,7 @@
   - /Users/HAL4/Development/blog/_app/_includes/js.html
   - /Users/HAL4/Development/blog/_app/_layouts/default.html
 /Users/HAL4/Development/blog/_app/_posts/note/2015-06-07-scopemount-theme-sloan.md:
-  mtime: 2015-06-07 16:52:06.000000000 +07:00
+  mtime: 2015-06-07 20:20:28.000000000 +07:00
   deps:
   - /Users/HAL4/Development/blog/_app/_includes/_amsf.html
   - /Users/HAL4/Development/blog/_app/_layouts/post.html
@@ -121,10 +121,10 @@
   mtime: 2015-05-20 11:49:02.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/assets/css/app.css:
-  mtime: 2015-06-07 16:45:22.000000000 +07:00
+  mtime: 2015-06-11 09:34:25.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/assets/css/app.css.map:
-  mtime: 2015-06-07 16:45:22.000000000 +07:00
+  mtime: 2015-06-11 09:34:24.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/assets/img/0-Telescope.png:
   mtime: 2015-05-31 11:43:12.000000000 +07:00
@@ -199,20 +199,5 @@
   mtime: 2015-05-20 11:49:02.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/_includes/header.html:
-  mtime: 2015-05-20 11:49:02.000000000 +07:00
-  deps: []
-/Users/HAL4/Development/blog/_app/_includes/nav.html:
-  mtime: 2015-05-22 15:32:33.000000000 +07:00
-  deps: []
-/Users/HAL4/Development/blog/_app/_includes/content.html:
-  mtime: 2015-05-20 11:49:02.000000000 +07:00
-  deps: []
-/Users/HAL4/Development/blog/_app/_includes/footer.html:
-  mtime: 2015-05-23 17:48:35.000000000 +07:00
-  deps: []
-/Users/HAL4/Development/blog/_app/_includes/js.html:
-  mtime: 2015-05-22 15:34:58.000000000 +07:00
-  deps: []
-/Users/HAL4/Development/blog/_app/_layouts/default.html:
   mtime: 2015-05-20 11:49:02.000000000 +07:00
   deps: []

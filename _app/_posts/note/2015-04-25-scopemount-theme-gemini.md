@@ -10,7 +10,7 @@ scheme-hover: "black"
 scheme-bg: "white"
 ---
 
-*Update May 23 2015: Gemini is now refactored to run on Telescope v0.20.4.*
+*Update June 11 2015: Gemini is now refactored to run on Telescope v0.20.5*
 
 Gemini is the first Telescope theme for [Scopemount](http://scopemount.startrack.io/).
 
@@ -29,6 +29,8 @@ On mobile, the thumbs are switched to the right side.
 </p>
 
 ## Usage
+
+***Note:*** *Set your Telescope admin settings to post 'list' mode and include Embedly thumbs with a width of 350px and height of 350px.*
 
 You can install Gemini automagically through [Atmosphere](https://atmospherejs.com/montecruiseto/telescope-theme-sm-gemini):
 
