@@ -50,5 +50,3 @@ This theme was named after the [Sloan Digital Sky Survey](http://en.wikipedia.or
 </p>
 
 If you want to be notified of theme updates or new releases, you can leave your email on the [Scopemount](http://scopemount.startrack.io/) homepage. Have fun with Telescope and don't take your eyes off the sky!
-
-***Ps: if you like these themes you're welcome to star Scopemount on [Github](https://github.com/montecruiseto/scopemount)!***
