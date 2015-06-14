@@ -70,7 +70,7 @@
   - /Users/HAL4/Development/blog/_app/_includes/js.html
   - /Users/HAL4/Development/blog/_app/_layouts/default.html
 /Users/HAL4/Development/blog/_app/_posts/note/2015-06-14-scopemount-theme-lulin.md:
-  mtime: 2015-06-13 13:32:02.000000000 +07:00
+  mtime: 2015-06-14 15:18:19.000000000 +07:00
   deps:
   - /Users/HAL4/Development/blog/_app/_includes/_amsf.html
   - /Users/HAL4/Development/blog/_app/_layouts/post.html
@@ -135,10 +135,10 @@
   mtime: 2015-05-20 11:49:02.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/assets/css/app.css:
-  mtime: 2015-06-13 13:31:28.000000000 +07:00
+  mtime: 2015-06-14 15:19:15.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/assets/css/app.css.map:
-  mtime: 2015-06-13 13:31:28.000000000 +07:00
+  mtime: 2015-06-14 15:19:15.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/assets/img/0-Telescope.png:
   mtime: 2015-05-31 11:43:12.000000000 +07:00
@@ -170,23 +170,20 @@
 /Users/HAL4/Development/blog/_app/assets/img/Lulin1.png:
   mtime: 2015-06-13 12:38:30.000000000 +07:00
   deps: []
-/Users/HAL4/Development/blog/_app/assets/img/Lulin1c.png:
-  mtime: 2015-06-13 11:45:17.000000000 +07:00
+/Users/HAL4/Development/blog/_app/assets/img/Lulin1s.png:
+  mtime: 2015-06-13 12:39:46.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/assets/img/Lulin2.png:
   mtime: 2015-06-13 11:31:49.000000000 +07:00
   deps: []
-/Users/HAL4/Development/blog/_app/assets/img/Lulin2c.png:
-  mtime: 2015-06-13 11:45:56.000000000 +07:00
+/Users/HAL4/Development/blog/_app/assets/img/Lulin2s.png:
+  mtime: 2015-06-13 12:37:13.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/assets/img/LulinT.jpg:
   mtime: 2015-06-13 12:13:09.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/assets/img/LulinT2.jpg:
   mtime: 2015-06-13 11:44:13.000000000 +07:00
-  deps: []
-/Users/HAL4/Development/blog/_app/assets/img/LulinTc.jpg:
-  mtime: 2015-06-13 11:43:55.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/assets/img/Newton.png:
   mtime: 2015-05-23 20:14:21.000000000 +07:00
@@ -217,55 +214,4 @@
   deps: []
 /Users/HAL4/Development/blog/_app/favicon.ico:
   mtime: 2015-05-24 10:28:08.000000000 +07:00
-  deps: []
-/Users/HAL4/Development/blog/_app/_includes/_amsf.html:
-  mtime: 2015-05-20 11:49:02.000000000 +07:00
-  deps: []
-/Users/HAL4/Development/blog/_app/_includes/page-item.html:
-  mtime: 2015-05-20 11:49:02.000000000 +07:00
-  deps: []
-/Users/HAL4/Development/blog/_app/_layouts/post.html:
-  mtime: 2015-06-13 13:27:50.000000000 +07:00
-  deps: []
-/Users/HAL4/Development/blog/_app/_layouts/page.html:
-  mtime: 2015-05-20 11:49:02.000000000 +07:00
-  deps: []
-/Users/HAL4/Development/blog/_app/_includes/top.html:
-  mtime: 2015-05-23 12:40:49.000000000 +07:00
-  deps: []
-/Users/HAL4/Development/blog/_app/_includes/open-graph.html:
-  mtime: 2015-05-20 11:49:02.000000000 +07:00
-  deps: []
-/Users/HAL4/Development/blog/_app/_includes/css-variables.html:
-  mtime: 2015-05-20 11:49:02.000000000 +07:00
-  deps: []
-/Users/HAL4/Development/blog/_app/_includes/header.html:
-  mtime: 2015-05-20 11:49:02.000000000 +07:00
-  deps: []
-/Users/HAL4/Development/blog/_app/_includes/nav.html:
-  mtime: 2015-05-22 15:32:33.000000000 +07:00
-  deps: []
-/Users/HAL4/Development/blog/_app/_includes/content.html:
-  mtime: 2015-05-20 11:49:02.000000000 +07:00
-  deps: []
-/Users/HAL4/Development/blog/_app/_includes/footer.html:
-  mtime: 2015-05-23 17:48:35.000000000 +07:00
-  deps: []
-/Users/HAL4/Development/blog/_app/_includes/js.html:
-  mtime: 2015-05-22 15:34:58.000000000 +07:00
-  deps: []
-/Users/HAL4/Development/blog/_app/_layouts/default.html:
-  mtime: 2015-05-20 11:49:02.000000000 +07:00
-  deps: []
-/Users/HAL4/Development/blog/_app/assets/img/Lulin2 copy.png:
-  mtime: 2015-06-13 11:31:49.000000000 +07:00
-  deps: []
-/Users/HAL4/Development/blog/_app/assets/img/Lulin2s.png:
-  mtime: 2015-06-13 12:37:13.000000000 +07:00
-  deps: []
-/Users/HAL4/Development/blog/_app/assets/img/Lulin1 copy.png:
-  mtime: 2015-06-13 12:38:30.000000000 +07:00
-  deps: []
-/Users/HAL4/Development/blog/_app/assets/img/Lulin1s.png:
-  mtime: 2015-06-13 12:39:46.000000000 +07:00
   deps: []

@@ -20,7 +20,7 @@ scheme-bg: "white"
 
 ## Look
 
-Say hello to the sixth [Scopemount](http://scopemount.startrack.io/) theme for Telescope. Lulin is a mobile-first foodie theme, drawing some inspiration from sites like [Food Lovers United](https://www.fluc.com/).
+Say hello to the sixth [Scopemount](http://scopemount.startrack.io/) theme for Telescope. Lulin is a mobile-first foodie theme, drawing some inspiration from sites like [Food Lovers United](https://dribbble.com/shots/1832733-Let-s-Fluc-Home).
 
 <p>
   <img src="/assets/img/Lulin1s.png" class="nointense img-centered" alt="Image">
