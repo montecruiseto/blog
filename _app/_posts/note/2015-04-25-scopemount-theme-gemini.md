@@ -10,13 +10,9 @@ scheme-hover: "black"
 scheme-bg: "white"
 ---
 
-*Update June 11 2015: Gemini is now refactored to run on Telescope v0.20.5*
+# Look
 
-Gemini is the first Telescope theme for [Scopemount](http://scopemount.startrack.io/).
-
-## Look
-
-Gemini is a modern music theme, inspired by sites like [Atlantic Records](http://www.atlanticrecords.com/) and [Stoney Roads](http://stoneyroads.com/). You can click here for a [demo](http://sm-gemini.meteor.com/).
+Gemini is the first Telescope theme for [Scopemount](http://scopemount.startrack.io/). It's a modern music theme, inspired by sites like [Atlantic Records](http://www.atlanticrecords.com/) and [Stoney Roads](http://stoneyroads.com/).
 
 <p>
   <img src="/assets/img/Gemini.png" class="nointense" alt="Image">
@@ -28,7 +24,15 @@ On mobile, the thumbs are switched to the right side.
   <img src="/assets/img/Gemini2.png" class="nointense img-centered" alt="Image">
 </p>
 
-## Usage
+# Quick Links
+
+[Demo](http://sm-gemini.meteor.com/)
+
+[Atmosphere](https://atmospherejs.com/montecruiseto/telescope-theme-sm-gemini)
+
+[Scopemount](http://scopemount.startrack.io/)
+
+# Install
 
 ***Note:*** *Set your Telescope admin settings to post 'list' mode and include Embedly thumbs with a width of 350px and height of 350px.*
 
@@ -40,7 +44,7 @@ $ meteor add montecruiseto:telescope-theme-sm-gemini
 
 Alternatively if you want to customize the theme: [Download](https://github.com/montecruiseto/scopemount) and extract the theme of your choice to your Telescope package directory and run the same command as above. Telescope will look for the local package first and use that one.
 
-## Gemini
+# Gemini
 
 This theme was named after the [Gemini Observatory](http://en.wikipedia.org/wiki/Gemini_Observatory), located at over 2,700 metres (8,900 ft) elevation on a mountain in the Chilean Andes called Cerro Pachón.
 

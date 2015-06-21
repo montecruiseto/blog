@@ -10,13 +10,9 @@ scheme-hover: "black"
 scheme-bg: "white"
 ---
 
-*Update June 11 2015: Galileo is now refactored to run on Telescope v0.20.5*
+# Look
 
-This week saw the completion of a third Telescope theme for [Scopemount](http://scopemount.startrack.io/).
-
-## Look
-
-Galileo is a modern Q&A theme, taking some functional and visual cues from Quora and Medium. You can click here for a [demo](http://sm-galileo.meteor.com/).
+This week saw the completion of a third Telescope theme for [Scopemount](http://scopemount.startrack.io/). Galileo is a modern Q&A theme, taking some functional and visual cues from Quora and Medium.
 
 The theme ships with a colourful sunburst gradient on the side-nav.
 
@@ -32,7 +28,15 @@ However, if you opt to install the package locally, you can edit the "_colors.le
 
 Out-of-the box Galileo includes 3 Google webfonts, which are mostly for showcasing purposes. The font "Yesteryear" is only used on the logo. If you are concerned with page load times, feel free to throw out one or more of the webfonts and use standard native fonts by editing "_typography.less".
 
-## Usage
+# Quick Links
+
+[Demo](http://sm-galileo.meteor.com/)
+
+[Atmosphere](https://atmospherejs.com/montecruiseto/telescope-theme-sm-galileo)
+
+[Scopemount](http://scopemount.startrack.io/)
+
+# Install
 
 You can install Galileo automagically through [Atmosphere](https://atmospherejs.com/montecruiseto/telescope-theme-sm-galileo):
 
@@ -44,7 +48,7 @@ Alternatively if you want to customize the theme: [Download](https://github.com/
 
 ***Note:*** *Remember to set Telescope to 'side' navigation and post 'list' mode in your admin settings.*
 
-## Galileo
+# Galileo
 
 This theme was named after the [Telescopio Nazionale Galileo](http://en.wikipedia.org/wiki/Telescopio_Nazionale_Galileo), a 3.58m Italian telescope located on the island of San Miguel de La Palma (or, more simply, La Palma), in the Canary Islands archipelago.
 

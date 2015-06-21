@@ -10,19 +10,23 @@ scheme-hover: "black"
 scheme-bg: "white"
 ---
 
-*Update June 11 2015: Newton is now refactored to run on Telescope v0.20.5*
+# Look
 
-Newton is the second Telescope theme for [Scopemount](http://scopemount.startrack.io/).
-
-## Look
-
-Newton is a minimal tech news theme taking some inspiration from sites like Designer News and Hacker News. You can click here for a [demo](http://sm-newton.meteor.com/).
+Newton is the second Telescope theme for [Scopemount](http://scopemount.startrack.io/). It's a minimal tech news theme taking some inspiration from sites like Designer News and Hacker News.
 
 <p>
   <img src="/assets/img/Newton.png" class="nointense" alt="Image">
 </p>
 
-## Usage
+# Quick Links
+
+[Demo](http://sm-newton.meteor.com/)
+
+[Atmosphere](https://atmospherejs.com/montecruiseto/telescope-theme-sm-newton)
+
+[Scopemount](http://scopemount.startrack.io/)
+
+# Install
 
 You can install Newton automagically through [Atmosphere](https://atmospherejs.com/montecruiseto/telescope-theme-sm-newton):
 
@@ -32,7 +36,7 @@ $ meteor add montecruiseto:telescope-theme-sm-newton
 
 Alternatively if you want to customize the theme: [Download](https://github.com/montecruiseto/scopemount) and extract the theme of your choice to your Telescope package directory and run the same command as above. Telescope will look for the local package first and use that one.
 
-## Newton
+# Newton
 
 This theme was named after [Newton's reflector](http://en.wikipedia.org/wiki/Newton%27s_reflector). It was built by Sir Isaac Newton in 1668 and is a landmark in the history of telescopes, being the first known successful reflecting telescope.
 

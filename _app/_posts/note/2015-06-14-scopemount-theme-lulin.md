@@ -10,17 +10,9 @@ scheme-hover: "black"
 scheme-bg: "white"
 ---
 
-## Quick Links
+# Look
 
-[Demo](http://sm-lulin.meteor.com/)
-
-[Atmosphere](https://atmospherejs.com/montecruiseto/telescope-theme-sm-lulin)
-
-[Scopemount](http://scopemount.startrack.io/)
-
-## Look
-
-Say hello to the sixth [Scopemount](http://scopemount.startrack.io/) theme for Telescope. Lulin is a mobile-first foodie theme, drawing some inspiration from sites like [Food Lovers United](https://dribbble.com/shots/1832733-Let-s-Fluc-Home).
+Say hello to the sixth [Scopemount](http://scopemount.startrack.io/) theme for Telescope. Lulin is a mobile-first foodie theme, drawing inspiration from sites like [Food Lovers United](https://dribbble.com/shots/1832733-Let-s-Fluc-Home).
 
 <p>
   <img src="/assets/img/Lulin1s.png" class="nointense img-centered" alt="Image">
@@ -34,7 +26,15 @@ Say hello to the sixth [Scopemount](http://scopemount.startrack.io/) theme for T
   <img src="/assets/img/Lulin0.png" class="nointense" alt="Image">
 </p>
 
-## Install
+# Quick Links
+
+[Demo](http://sm-lulin.meteor.com/)
+
+[Atmosphere](https://atmospherejs.com/montecruiseto/telescope-theme-sm-lulin)
+
+[Scopemount](http://scopemount.startrack.io/)
+
+# Install
 
 ***Note:*** *Set your Telescope admin settings to post 'grid' mode and include Embedly thumbs with a width of 700px and height of 350px.*
 
@@ -46,7 +46,7 @@ $ meteor add montecruiseto:telescope-theme-sm-lulin
 
 Alternatively if you want to customize the theme: [Download](https://github.com/montecruiseto/scopemount) and extract the theme of your choice to your Telescope package directory and run the same command as above. Telescope will look for the local package first and use that one.
 
-## Lulin
+# Lulin
 
 This theme was named after the [Lulin Observatory](https://en.wikipedia.org/wiki/Lulin_Observatory), an astronomical observatory operated by the Institute of Astronomy, National Central University in Taiwan. It is located at the summit of Mount Lulin, near Yushan National Park.
 
