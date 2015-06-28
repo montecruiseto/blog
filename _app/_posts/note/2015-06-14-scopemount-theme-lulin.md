@@ -51,7 +51,7 @@ Alternatively if you want to customize the theme: [Download](https://github.com/
 This theme was named after the [Lulin Observatory](https://en.wikipedia.org/wiki/Lulin_Observatory), an astronomical observatory operated by the Institute of Astronomy, National Central University in Taiwan. It is located at the summit of Mount Lulin, near Yushan National Park.
 
 <p>
-  <img src="/assets/img/LulinT.jpg" class="nointense" alt="Image">
+  <img src="/assets/img/LulinT.jpg" class="nointense img-centered" alt="Image">
 </p>
 
 If you want to be notified of theme updates or new releases, you can leave your email on the [Scopemount](http://scopemount.startrack.io/) homepage. Keep building with Telescope but watch out for meteors!

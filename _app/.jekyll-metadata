@@ -70,7 +70,7 @@
   - /Users/HAL4/Development/blog/_app/_includes/js.html
   - /Users/HAL4/Development/blog/_app/_layouts/default.html
 /Users/HAL4/Development/blog/_app/_posts/note/2015-06-14-scopemount-theme-lulin.md:
-  mtime: 2015-06-21 14:37:48.000000000 +07:00
+  mtime: 2015-06-28 09:58:41.000000000 +07:00
   deps:
   - /Users/HAL4/Development/blog/_app/_includes/_amsf.html
   - /Users/HAL4/Development/blog/_app/_layouts/post.html
@@ -84,7 +84,21 @@
   - /Users/HAL4/Development/blog/_app/_includes/js.html
   - /Users/HAL4/Development/blog/_app/_layouts/default.html
 /Users/HAL4/Development/blog/_app/_posts/note/2015-06-21-scopemount-theme-starfire.md:
-  mtime: 2015-06-21 14:30:58.000000000 +07:00
+  mtime: 2015-06-27 16:12:11.000000000 +07:00
+  deps:
+  - /Users/HAL4/Development/blog/_app/_includes/_amsf.html
+  - /Users/HAL4/Development/blog/_app/_layouts/post.html
+  - /Users/HAL4/Development/blog/_app/_includes/top.html
+  - /Users/HAL4/Development/blog/_app/_includes/open-graph.html
+  - /Users/HAL4/Development/blog/_app/_includes/css-variables.html
+  - /Users/HAL4/Development/blog/_app/_includes/header.html
+  - /Users/HAL4/Development/blog/_app/_includes/nav.html
+  - /Users/HAL4/Development/blog/_app/_includes/content.html
+  - /Users/HAL4/Development/blog/_app/_includes/footer.html
+  - /Users/HAL4/Development/blog/_app/_includes/js.html
+  - /Users/HAL4/Development/blog/_app/_layouts/default.html
+/Users/HAL4/Development/blog/_app/_posts/note/2015-06-27-scopemount-theme-colossus.md:
+  mtime: 2015-06-27 16:13:12.000000000 +07:00
   deps:
   - /Users/HAL4/Development/blog/_app/_includes/_amsf.html
   - /Users/HAL4/Development/blog/_app/_layouts/post.html
@@ -149,13 +163,22 @@
   mtime: 2015-05-20 11:49:02.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/assets/css/app.css:
-  mtime: 2015-06-21 14:43:03.000000000 +07:00
+  mtime: 2015-06-28 09:45:46.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/assets/css/app.css.map:
-  mtime: 2015-06-21 14:43:03.000000000 +07:00
+  mtime: 2015-06-28 09:45:46.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/assets/img/0-Telescope.png:
   mtime: 2015-05-31 11:43:12.000000000 +07:00
+  deps: []
+/Users/HAL4/Development/blog/_app/assets/img/Colossus.gif:
+  mtime: 2015-06-27 15:50:04.000000000 +07:00
+  deps: []
+/Users/HAL4/Development/blog/_app/assets/img/Colossus0.png:
+  mtime: 2015-06-28 09:59:30.000000000 +07:00
+  deps: []
+/Users/HAL4/Development/blog/_app/assets/img/ColossusT.jpg:
+  mtime: 2015-06-27 15:55:14.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/assets/img/Galileo0.png:
   mtime: 2015-05-23 14:59:40.000000000 +07:00
@@ -176,7 +199,7 @@
   mtime: 2015-05-23 20:14:00.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/assets/img/Lulin0.png:
-  mtime: 2015-06-13 09:07:12.000000000 +07:00
+  mtime: 2015-06-28 09:59:27.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/assets/img/Lulin0c.png:
   mtime: 2015-06-13 11:44:59.000000000 +07:00
@@ -188,13 +211,13 @@
   mtime: 2015-06-13 12:39:46.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/assets/img/Lulin2.png:
-  mtime: 2015-06-13 11:31:49.000000000 +07:00
+  mtime: 2015-06-28 10:01:24.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/assets/img/Lulin2s.png:
   mtime: 2015-06-13 12:37:13.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/assets/img/LulinT.jpg:
-  mtime: 2015-06-13 12:13:09.000000000 +07:00
+  mtime: 2015-06-28 09:51:48.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/assets/img/LulinT2.jpg:
   mtime: 2015-06-13 11:44:13.000000000 +07:00
@@ -209,7 +232,7 @@
   mtime: 2015-05-31 17:55:46.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/assets/img/Palomar.png:
-  mtime: 2015-05-31 09:37:38.000000000 +07:00
+  mtime: 2015-06-28 10:00:37.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/assets/img/Palomar2.png:
   mtime: 2015-05-31 10:13:02.000000000 +07:00
@@ -227,7 +250,7 @@
   mtime: 2015-06-21 13:25:02.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/assets/img/Starfire0.png:
-  mtime: 2015-06-21 10:05:24.000000000 +07:00
+  mtime: 2015-06-21 13:44:29.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/assets/img/StarfireT.jpg:
   mtime: 2015-06-21 10:12:41.000000000 +07:00
@@ -265,6 +288,9 @@
 /Users/HAL4/Development/blog/_app/_includes/nav.html:
   mtime: 2015-05-22 15:32:33.000000000 +07:00
   deps: []
+/Users/HAL4/Development/blog/_app/assets/img/Colossus0 (1).png:
+  mtime: 2015-06-28 09:59:30.000000000 +07:00
+  deps: []
 /Users/HAL4/Development/blog/_app/_includes/content.html:
   mtime: 2015-05-20 11:49:02.000000000 +07:00
   deps: []
@@ -277,3 +303,17 @@
 /Users/HAL4/Development/blog/_app/_layouts/default.html:
   mtime: 2015-05-20 11:49:02.000000000 +07:00
   deps: []
+/Users/HAL4/Development/blog/_app/_posts/note/2015-06-28-scopemount-theme-colossus.md:
+  mtime: 2015-06-28 10:24:34.000000000 +07:00
+  deps:
+  - /Users/HAL4/Development/blog/_app/_includes/_amsf.html
+  - /Users/HAL4/Development/blog/_app/_layouts/post.html
+  - /Users/HAL4/Development/blog/_app/_includes/top.html
+  - /Users/HAL4/Development/blog/_app/_includes/open-graph.html
+  - /Users/HAL4/Development/blog/_app/_includes/css-variables.html
+  - /Users/HAL4/Development/blog/_app/_includes/header.html
+  - /Users/HAL4/Development/blog/_app/_includes/nav.html
+  - /Users/HAL4/Development/blog/_app/_includes/content.html
+  - /Users/HAL4/Development/blog/_app/_includes/footer.html
+  - /Users/HAL4/Development/blog/_app/_includes/js.html
+  - /Users/HAL4/Development/blog/_app/_layouts/default.html
