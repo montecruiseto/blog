@@ -97,8 +97,8 @@
   - /Users/HAL4/Development/blog/_app/_includes/footer.html
   - /Users/HAL4/Development/blog/_app/_includes/js.html
   - /Users/HAL4/Development/blog/_app/_layouts/default.html
-/Users/HAL4/Development/blog/_app/_posts/note/2015-06-27-scopemount-theme-colossus.md:
-  mtime: 2015-06-27 16:13:12.000000000 +07:00
+/Users/HAL4/Development/blog/_app/_posts/note/2015-06-28-scopemount-theme-colossus.md:
+  mtime: 2015-06-28 10:24:34.000000000 +07:00
   deps:
   - /Users/HAL4/Development/blog/_app/_includes/_amsf.html
   - /Users/HAL4/Development/blog/_app/_layouts/post.html
@@ -163,16 +163,13 @@
   mtime: 2015-05-20 11:49:02.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/assets/css/app.css:
-  mtime: 2015-06-28 09:45:46.000000000 +07:00
+  mtime: 2015-07-04 15:51:16.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/assets/css/app.css.map:
-  mtime: 2015-06-28 09:45:46.000000000 +07:00
+  mtime: 2015-07-04 15:51:16.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/assets/img/0-Telescope.png:
   mtime: 2015-05-31 11:43:12.000000000 +07:00
-  deps: []
-/Users/HAL4/Development/blog/_app/assets/img/Colossus.gif:
-  mtime: 2015-06-27 15:50:04.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/assets/img/Colossus0.png:
   mtime: 2015-06-28 09:59:30.000000000 +07:00
@@ -219,8 +216,11 @@
 /Users/HAL4/Development/blog/_app/assets/img/LulinT.jpg:
   mtime: 2015-06-28 09:51:48.000000000 +07:00
   deps: []
-/Users/HAL4/Development/blog/_app/assets/img/LulinT2.jpg:
-  mtime: 2015-06-13 11:44:13.000000000 +07:00
+/Users/HAL4/Development/blog/_app/assets/img/Magellan0.png:
+  mtime: 2015-07-03 18:38:29.000000000 +07:00
+  deps: []
+/Users/HAL4/Development/blog/_app/assets/img/MagellanT.jpg:
+  mtime: 2015-07-03 18:43:56.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/assets/img/Newton.png:
   mtime: 2015-05-23 20:14:21.000000000 +07:00
@@ -264,6 +264,20 @@
 /Users/HAL4/Development/blog/_app/_includes/_amsf.html:
   mtime: 2015-05-20 11:49:02.000000000 +07:00
   deps: []
+/Users/HAL4/Development/blog/_app/_posts/note/2015-07-05-scopemount-theme-magellan.md:
+  mtime: 2015-07-04 16:03:33.000000000 +07:00
+  deps:
+  - /Users/HAL4/Development/blog/_app/_includes/_amsf.html
+  - /Users/HAL4/Development/blog/_app/_layouts/post.html
+  - /Users/HAL4/Development/blog/_app/_includes/top.html
+  - /Users/HAL4/Development/blog/_app/_includes/open-graph.html
+  - /Users/HAL4/Development/blog/_app/_includes/css-variables.html
+  - /Users/HAL4/Development/blog/_app/_includes/header.html
+  - /Users/HAL4/Development/blog/_app/_includes/nav.html
+  - /Users/HAL4/Development/blog/_app/_includes/content.html
+  - /Users/HAL4/Development/blog/_app/_includes/footer.html
+  - /Users/HAL4/Development/blog/_app/_includes/js.html
+  - /Users/HAL4/Development/blog/_app/_layouts/default.html
 /Users/HAL4/Development/blog/_app/_includes/page-item.html:
   mtime: 2015-05-20 11:49:02.000000000 +07:00
   deps: []
@@ -288,32 +302,9 @@
 /Users/HAL4/Development/blog/_app/_includes/nav.html:
   mtime: 2015-05-22 15:32:33.000000000 +07:00
   deps: []
-/Users/HAL4/Development/blog/_app/assets/img/Colossus0 (1).png:
-  mtime: 2015-06-28 09:59:30.000000000 +07:00
-  deps: []
 /Users/HAL4/Development/blog/_app/_includes/content.html:
   mtime: 2015-05-20 11:49:02.000000000 +07:00
   deps: []
 /Users/HAL4/Development/blog/_app/_includes/footer.html:
   mtime: 2015-05-23 17:48:35.000000000 +07:00
   deps: []
-/Users/HAL4/Development/blog/_app/_includes/js.html:
-  mtime: 2015-05-22 15:34:58.000000000 +07:00
-  deps: []
-/Users/HAL4/Development/blog/_app/_layouts/default.html:
-  mtime: 2015-05-20 11:49:02.000000000 +07:00
-  deps: []
-/Users/HAL4/Development/blog/_app/_posts/note/2015-06-28-scopemount-theme-colossus.md:
-  mtime: 2015-06-28 10:24:34.000000000 +07:00
-  deps:
-  - /Users/HAL4/Development/blog/_app/_includes/_amsf.html
-  - /Users/HAL4/Development/blog/_app/_layouts/post.html
-  - /Users/HAL4/Development/blog/_app/_includes/top.html
-  - /Users/HAL4/Development/blog/_app/_includes/open-graph.html
-  - /Users/HAL4/Development/blog/_app/_includes/css-variables.html
-  - /Users/HAL4/Development/blog/_app/_includes/header.html
-  - /Users/HAL4/Development/blog/_app/_includes/nav.html
-  - /Users/HAL4/Development/blog/_app/_includes/content.html
-  - /Users/HAL4/Development/blog/_app/_includes/footer.html
-  - /Users/HAL4/Development/blog/_app/_includes/js.html
-  - /Users/HAL4/Development/blog/_app/_layouts/default.html
