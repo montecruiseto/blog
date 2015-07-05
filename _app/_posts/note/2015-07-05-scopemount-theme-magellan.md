@@ -46,7 +46,7 @@ Alternatively if you want to customize the theme: [Download](https://github.com/
 This theme was named after the [Giant Magellan Telescope](https://en.wikipedia.org/wiki/Giant_Magellan_Telescope), a ground-based extremely large telescope in Chile, planned for completion in 2025. The telescope is expected to have over five to ten times the light-gathering ability of existing ones.
 
 <p>
-  <img src="/assets/img/magellanT.jpg" class="nointense img-centered" alt="Image">
+  <img src="/assets/img/MagellanT.jpg" class="nointense img-centered" alt="Image">
 </p>
 
 If you want to be notified of theme updates or new releases, you can leave your email on the [Scopemount](http://scopemount.startrack.io/) homepage. Talk back next week. In the meantime, keep aiming for the stars.
