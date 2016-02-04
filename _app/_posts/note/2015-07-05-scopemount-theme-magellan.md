@@ -12,7 +12,7 @@ scheme-bg: "white"
 
 # Look
 
-Turn your Telescope app into a blog with Magellan, [Scopemount](http://scopemount.startrack.io/) theme number nine. This particular theme was heavily inspired by the [TechInAsia](https://www.techinasia.com/)-blog design.
+Turn your Telescope app into a blog with Magellan, [Scopemount](http://scopemount.surge.sh/) theme number nine. This particular theme was heavily inspired by the [TechInAsia](https://www.techinasia.com/)-blog design.
 
 <p>
   <img src="/assets/img/Magellan0.png" class="nointense img-centered" alt="Image">
@@ -27,7 +27,7 @@ The function of "sticky" posts has been utilized to create "featured posts" whic
 
 [Atmosphere](https://atmospherejs.com/montecruiseto/telescope-theme-sm-magellan)
 
-[Scopemount](http://scopemount.startrack.io/)
+[Scopemount](http://scopemount.surge.sh/)
 
 # Install
 
@@ -49,4 +49,4 @@ This theme was named after the [Giant Magellan Telescope](https://en.wikipedia.o
   <img src="/assets/img/MagellanT.jpg" class="nointense img-centered" alt="Image">
 </p>
 
-If you want to be notified of theme updates or new releases, you can leave your email on the [Scopemount](http://scopemount.startrack.io/) homepage. Talk back next week. In the meantime, keep aiming for the stars.
+If you want to be notified of theme updates or new releases, you can leave your email on the [Scopemount](http://scopemount.surge.sh/) homepage. Talk back next week. In the meantime, keep aiming for the stars.

@@ -12,7 +12,7 @@ scheme-bg: "white"
 
 # Look
 
-Gemini is the first Telescope theme for [Scopemount](http://scopemount.startrack.io/). It's a modern music theme, inspired by sites like [Atlantic Records](http://www.atlanticrecords.com/) and [Stoney Roads](http://stoneyroads.com/).
+Gemini is the first Telescope theme for [Scopemount](http://scopemount.surge.sh). It's a modern music theme, inspired by sites like [Atlantic Records](http://www.atlanticrecords.com/) and [Stoney Roads](http://stoneyroads.com/).
 
 <p>
   <img src="/assets/img/Gemini.png" class="nointense" alt="Image">
@@ -30,7 +30,7 @@ On mobile, the thumbs are switched to the right side.
 
 [Atmosphere](https://atmospherejs.com/montecruiseto/telescope-theme-sm-gemini)
 
-[Scopemount](http://scopemount.startrack.io/)
+[Scopemount](http://scopemount.surge.sh)
 
 # Install
 
@@ -52,4 +52,4 @@ This theme was named after the [Gemini Observatory](http://en.wikipedia.org/wiki
   <img src="/assets/img/GeminiT.jpg" class="nointense" alt="Image">
 </p>
 
-If you want to be notified of theme updates or new releases, you can leave your email on the [Scopemount](http://scopemount.startrack.io/) homepage. Have fun with Telescope and keep looking at the sky!
+If you want to be notified of theme updates or new releases, you can leave your email on the [Scopemount](http://scopemount.surge.sh) homepage. Have fun with Telescope and keep looking at the sky!

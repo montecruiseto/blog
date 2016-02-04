@@ -12,7 +12,7 @@ scheme-bg: "white"
 
 # Look
 
-Newton is the second Telescope theme for [Scopemount](http://scopemount.startrack.io/). It's a minimal tech news theme taking some inspiration from sites like Designer News and Hacker News.
+Newton is the second Telescope theme for [Scopemount](http://scopemount.surge.sh/). It's a minimal tech news theme taking some inspiration from sites like Designer News and Hacker News.
 
 <p>
   <img src="/assets/img/Newton.png" class="nointense" alt="Image">
@@ -24,7 +24,7 @@ Newton is the second Telescope theme for [Scopemount](http://scopemount.startrac
 
 [Atmosphere](https://atmospherejs.com/montecruiseto/telescope-theme-sm-newton)
 
-[Scopemount](http://scopemount.startrack.io/)
+[Scopemount](http://scopemount.surge.sh/)
 
 # Install
 
@@ -44,4 +44,4 @@ This theme was named after [Newton's reflector](http://en.wikipedia.org/wiki/New
   <img src="/assets/img/NewtonT.jpg" class="nointense" alt="Image">
 </p>
 
-If you want to be notified of theme updates or new releases, you can leave your email on the [Scopemount](http://scopemount.startrack.io/) homepage. Have fun with Telescope and keep looking at the sky!
+If you want to be notified of theme updates or new releases, you can leave your email on the [Scopemount](http://scopemount.surge.sh/) homepage. Have fun with Telescope and keep looking at the sky!

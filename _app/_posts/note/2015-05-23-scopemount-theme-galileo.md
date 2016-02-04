@@ -12,7 +12,7 @@ scheme-bg: "white"
 
 # Look
 
-This week saw the completion of a third Telescope theme for [Scopemount](http://scopemount.startrack.io/). Galileo is a modern Q&A theme, taking some functional and visual cues from Quora and Medium.
+This week saw the completion of a third Telescope theme for [Scopemount](http://scopemount.surge.sh/). Galileo is a modern Q&A theme, taking some functional and visual cues from Quora and Medium.
 
 The theme ships with a colourful sunburst gradient on the side-nav.
 
@@ -34,7 +34,7 @@ Out-of-the box Galileo includes 3 Google webfonts, which are mostly for showcasi
 
 [Atmosphere](https://atmospherejs.com/montecruiseto/telescope-theme-sm-galileo)
 
-[Scopemount](http://scopemount.startrack.io/)
+[Scopemount](http://scopemount.surge.sh/)
 
 # Install
 
@@ -56,5 +56,5 @@ This theme was named after the [Telescopio Nazionale Galileo](http://en.wikipedi
   <img src="/assets/img/GalileoT.jpg" class="nointense" alt="Image">
 </p>
 
-If you want to be notified of theme updates or new releases, you can leave your email on the [Scopemount](http://scopemount.startrack.io/) homepage. Have fun with Telescope and keep looking at the sky!
+If you want to be notified of theme updates or new releases, you can leave your email on the [Scopemount](http://scopemount.surge.sh/) homepage. Have fun with Telescope and keep looking at the sky!
 

@@ -12,7 +12,7 @@ scheme-bg: "white"
 
 # Look
 
-Colossus, the eight [Scopemount](http://scopemount.startrack.io/) theme for Telescope, is perfect for that big and bold boutique look. It came about as a mashup between modern designs such as [Designmodo Market](http://market.designmodo.com/baikal/) and [Apple](https://www.apple.com/ios/).
+Colossus, the eight [Scopemount](http://scopemount.surge.sh/) theme for Telescope, is perfect for that big and bold boutique look. It came about as a mashup between modern designs such as [Designmodo Market](http://market.designmodo.com/baikal/) and [Apple](https://www.apple.com/ios/).
 
 <p>
   <img src="/assets/img/Colossus0.png" class="nointense img-centered" alt="Image">
@@ -28,7 +28,7 @@ Credits go again to [Codrops](http://tympanus.net/codrops/2015/02/26/inspiration
 
 [Atmosphere](https://atmospherejs.com/montecruiseto/telescope-theme-sm-colossus)
 
-[Scopemount](http://scopemount.startrack.io/)
+[Scopemount](http://scopemount.surge.sh/)
 
 # Install
 
@@ -50,4 +50,4 @@ This theme was named after the [Colossus Telescope](http://the-colossus.com/even
   <img src="/assets/img/ColossusT.jpg" class="nointense" alt="Image">
 </p>
 
-If you want to be notified of theme updates or new releases, you can leave your email on the [Scopemount](http://scopemount.startrack.io/) homepage. Now go forth and explore, you intrepid meteorite.
+If you want to be notified of theme updates or new releases, you can leave your email on the [Scopemount](http://scopemount.surge.sh/) homepage. Now go forth and explore, you intrepid meteorite.

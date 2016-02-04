@@ -10,7 +10,7 @@ scheme-hover: "black"
 scheme-bg: "white"
 ---
 
-The fourth [Scopemount](http://scopemount.startrack.io/) theme for Telescope is out today. [Telescope](http://www.telescopeapp.org/) is an open-source Meteor-based web app that makes it easy for anybody to launch their own community. Go check it out!
+The fourth [Scopemount](http://scopemount.surge.sh/) theme for Telescope is out today. [Telescope](http://www.telescopeapp.org/) is an open-source Meteor-based web app that makes it easy for anybody to launch their own community. Go check it out!
 
 # Look
 
@@ -32,7 +32,7 @@ Mobile views have miniature cards, and care has been taken to provide admins wit
 
 [Atmosphere](https://atmospherejs.com/montecruiseto/telescope-theme-sm-palomar)
 
-[Scopemount](http://scopemount.startrack.io/)
+[Scopemount](http://scopemount.surge.sh/)
 
 # Install
 
@@ -54,4 +54,4 @@ This theme was named after the [Palomar Observatory](http://en.wikipedia.org/wik
   <img src="/assets/img/PalomarT.jpg" class="nointense" alt="Image">
 </p>
 
-If you want to be notified of theme updates or new releases, you can leave your email on the [Scopemount](http://scopemount.startrack.io/) homepage. Have fun with Telescope and keep tracking the stars!
+If you want to be notified of theme updates or new releases, you can leave your email on the [Scopemount](http://scopemount.surge.sh/) homepage. Have fun with Telescope and keep tracking the stars!

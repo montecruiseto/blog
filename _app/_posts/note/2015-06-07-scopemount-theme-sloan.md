@@ -10,7 +10,7 @@ scheme-hover: "black"
 scheme-bg: "white"
 ---
 
-Glad to announce the fifth [Scopemount](http://scopemount.startrack.io/) theme for [Telescope](http://www.telescopeapp.org/), the open-source Meteor-based web app that makes it easy for anybody to launch their own community.
+Glad to announce the fifth [Scopemount](http://scopemount.surge.sh/) theme for [Telescope](http://www.telescopeapp.org/), the open-source Meteor-based web app that makes it easy for anybody to launch their own community.
 
 # Look
 
@@ -26,7 +26,7 @@ Sloan is a very simple theme that can be useful for communities that crowd-curat
 
 [Atmosphere](https://atmospherejs.com/montecruiseto/telescope-theme-sm-sloan)
 
-[Scopemount](http://scopemount.startrack.io/)
+[Scopemount](http://scopemount.surge.sh/)
 
 # Install
 
@@ -46,4 +46,4 @@ This theme was named after the [Sloan Digital Sky Survey](http://en.wikipedia.or
   <img src="/assets/img/SloanT.jpg" class="nointense" alt="Image">
 </p>
 
-If you want to be notified of theme updates or new releases, you can leave your email on the [Scopemount](http://scopemount.startrack.io/) homepage. Have fun with Telescope and don't take your eyes off the sky!
+If you want to be notified of theme updates or new releases, you can leave your email on the [Scopemount](http://scopemount.surge.sh/) homepage. Have fun with Telescope and don't take your eyes off the sky!

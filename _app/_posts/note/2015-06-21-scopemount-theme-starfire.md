@@ -11,7 +11,7 @@ scheme-bg: "white"
 ---
 
 # Look
-A new week, a new [Scopemount](http://scopemount.startrack.io/) theme for Telescope. Starfire gives you a base to create your very own gaming news site in no time. Go head-on with sites like [Polygon](http://www.polygon.com/), [Metro](http://metro.co.uk/entertainment/gaming/) and [GamesRadar](http://www.gamesradar.com/news/) today! Just install & deploy.
+A new week, a new [Scopemount](http://scopemount.surge.sh) theme for Telescope. Starfire gives you a base to create your very own gaming news site in no time. Go head-on with sites like [Polygon](http://www.polygon.com/), [Metro](http://metro.co.uk/entertainment/gaming/) and [GamesRadar](http://www.gamesradar.com/news/) today! Just install & deploy.
 
 <p>
   <img src="/assets/img/Starfire0.png" class="nointense img-centered" alt="Image">
@@ -32,7 +32,7 @@ The theme makes use of the gooey button effect recently created by the talented 
 
 [Atmosphere](https://atmospherejs.com/montecruiseto/telescope-theme-sm-starfire)
 
-[Scopemount](http://scopemount.startrack.io/)
+[Scopemount](http://scopemount.surge.sh)
 
 # Install
 
@@ -56,4 +56,4 @@ This theme was named after the [Starfire Optical Range](https://en.wikipedia.org
   <img src="/assets/img/StarfireT.jpg" class="nointense" alt="Image">
 </p>
 
-If you want to be notified of theme updates or new releases, you can leave your email on the [Scopemount](http://scopemount.startrack.io/) homepage. Telescope can be pretty powerful, so as always, use it wisely.
+If you want to be notified of theme updates or new releases, you can leave your email on the [Scopemount](http://scopemount.surge.sh) homepage. Telescope can be pretty powerful, so as always, use it wisely.

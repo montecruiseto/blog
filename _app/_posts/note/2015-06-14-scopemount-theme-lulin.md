@@ -12,7 +12,7 @@ scheme-bg: "white"
 
 # Look
 
-Say hello to the sixth [Scopemount](http://scopemount.startrack.io/) theme for Telescope. Lulin is a mobile-first foodie theme, drawing inspiration from sites like [Food Lovers United](https://dribbble.com/shots/1832733-Let-s-Fluc-Home).
+Say hello to the sixth [Scopemount](http://scopemount.surge.sh/) theme for Telescope. Lulin is a mobile-first foodie theme, drawing inspiration from sites like [Food Lovers United](https://dribbble.com/shots/1832733-Let-s-Fluc-Home).
 
 <p>
   <img src="/assets/img/Lulin1s.png" class="nointense img-centered" alt="Image">
@@ -32,7 +32,7 @@ Say hello to the sixth [Scopemount](http://scopemount.startrack.io/) theme for T
 
 [Atmosphere](https://atmospherejs.com/montecruiseto/telescope-theme-sm-lulin)
 
-[Scopemount](http://scopemount.startrack.io/)
+[Scopemount](http://scopemount.surge.sh/)
 
 # Install
 
@@ -54,4 +54,4 @@ This theme was named after the [Lulin Observatory](https://en.wikipedia.org/wiki
   <img src="/assets/img/LulinT.jpg" class="nointense img-centered" alt="Image">
 </p>
 
-If you want to be notified of theme updates or new releases, you can leave your email on the [Scopemount](http://scopemount.startrack.io/) homepage. Keep building with Telescope but watch out for meteors!
+If you want to be notified of theme updates or new releases, you can leave your email on the [Scopemount](http://scopemount.surge.sh/) homepage. Keep building with Telescope but watch out for meteors!
